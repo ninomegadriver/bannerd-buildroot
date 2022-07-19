@@ -1,0 +1,5 @@
+config BR2_PACKAGE_BANNERD
+	bool "bannerd"
+	help
+	  A framebuffer animation daemon
+	  https://github.com/alukichev/bannerd
