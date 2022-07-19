@@ -1,2 +1,3 @@
 # bannerd-buildroot
-Bannerd (A framebuffer animation daemon) package for buildroot
+A buildroot package for Bannerd, A framebuffer animation daemon, by Alexander Lukichev
+(https://github.com/alukichev/bannerd)
